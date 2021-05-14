@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io/actions/workflows/codeql-analysis.yml)
+
 # This is the repo for [this site](https://www.weirdbandkid.games)
 You can use this code but must change wording.
 
