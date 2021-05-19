@@ -1,5 +1,13 @@
 [![CodeQL](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io/actions/workflows/codeql-analysis.yml)
 
+# Discord
+<div align="left">
+    <a target="_blank" href="https://discord.gg/46HQ9rJ" title="Join our Discord!">
+        <img  src="https://discordapp.com/api/guilds/713125432618385500/widget.png?style=banner2" height="76px" draggable="false" alt="Join our Discord!">
+    </a>
+</div>
+
+
 # This is the repo for [this site](https://www.weirdbandkid.games)
 You can use this code but must change wording.
 
