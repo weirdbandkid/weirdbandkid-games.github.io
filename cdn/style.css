@@ -85,6 +85,23 @@ body.big::-webkit-scrollbar {
   font-size: 0.6em;
   color: rgba(225, 225, 225, 0.6);
 }
+
+.header .name2 {
+  animation: rightToLeft 0.75s ease 1;
+  border-radius: 40px;
+  font-size: 150px;
+  margin: 0px 10px;
+  padding: 10px 15px;
+  font-weight: bold;
+  display: flex;
+  align-items: baseline;
+}
+.header .name2 .tag-line {
+  padding-left: 40px;
+  font-size: 0.6em;
+  color: rgba(225, 225, 225, 0.6);
+}
+
 .header .menu {
   line-height: 1.5em;
   animation: leftToRight 0.75s ease 1;
@@ -346,3 +363,14 @@ body.big::-webkit-scrollbar {
   background: #e55039;
 }
 
+.Online {
+  color:green;
+}
+
+.checking,.unchecked {
+  color:#FF8C00;
+}
+
+.Offline {
+  color:red;
+}
