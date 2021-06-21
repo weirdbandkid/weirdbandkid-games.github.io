@@ -1,5 +1,3 @@
-[![CodeQL](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io/actions/workflows/codeql-analysis.yml)
-
 # Discord
 <div align="left">
     <a target="_blank" href="https://discord.gg/46HQ9rJ" title="Join our Discord!">
